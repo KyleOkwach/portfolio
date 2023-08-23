@@ -5,6 +5,12 @@
 /.pnp
 .pnp.js
 
+# sanity
+/portfolio-sanity
+
+# env
+.env
+
 # testing
 /coverage
 
